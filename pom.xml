@@ -112,8 +112,8 @@
         <!--      Dependency checker-->
 
         <dependency>
-            <groupId>com.clouddefense.plugins</groupId>
-            <artifactId>maven-clouddefense-plugin</artifactId>
+            <groupId>ai.clouddefense.plugins</groupId>
+            <artifactId>clouddefense-maven-plugin</artifactId>
             <version>1.0.1</version>
             <type>maven-plugin</type>
         </dependency>
